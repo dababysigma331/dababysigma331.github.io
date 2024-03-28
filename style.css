@@ -1,12 +1,12 @@
 body {
   margin: 0;
-  background-color: #4c4e52;
+  background-color: #3d3e43;
 }
 
 .header {
   overflow: hidden;
   height: 45px;
-  background-color: #35383d;
+  background-color: #242529;
   margin: 0px;
 }
 
@@ -215,12 +215,12 @@ body {
 }
 
 #fiveside {
-  background-image: url("https://www.travel1000places.com/wp-content/uploads/2020/05/wikimedia-The_Pentagon_square-1500-1200x1200.jpg");
+  background-image: url("https://3.bp.blogspot.com/-lk9UgeODUbI/WEggLowdLRI/AAAAAAAADn8/v38EQOzvvWAAVa-hRhBsfXbiv8fH0NapwCLcB/s1600/Pentagon.jpg");
   background-position: center bottom;
   background-position-x: 50%;
   background-position-y: 0px;
   background-repeat: no-repeat;
-  background-size: 400px;
+  background-size: 500px;
 }
 
 #tomb {

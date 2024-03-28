@@ -1,0 +1,79 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style7.css">
+    <title></title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+        Washington Monument
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+      The Washington Monument is  obelisk located in the National mall, built to commemorate none other than George Washington. Constructed from granite, the obelisk is 55 ft wide at the base and 554 ft and 7 in high.  It is a powerful symbol of American patriotism. It was built between 1848 to 1888.
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://th.bing.com/th/id/R.db95dc244b68878f74f124d567959cfb?rik=aYogCq%2bpB4dzJQ&pid=ImgRaw&r=0">
+    
+     
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

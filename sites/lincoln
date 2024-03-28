@@ -1,0 +1,79 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style8.css">
+    <title> Lincoln Memorial</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+        Lincoln Memorial 
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+The Lincoln Memorial was built between 1914 to 1922. The memorial was built more none other than Abraham Lincoln. The memorial is basically a gigantic . Abraham Lincoln sitting. Engravings of the Gettysburg Address and the Inaugural Address are on the monument. The memorial symbolizes the importance of the union of the states and the preservation of it.
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://th.bing.com/th/id/R.a5ac295dd767cf2cd41acad7a253c4d7?rik=1wc%2b%2bpF5g%2bfxFw&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f4%2f44%2fLincoln_Memorial%2c_Washington%2c_DC_in_2012.JPG&ehk=tzqoCSvzvSSKF6mhs%2bS21lftrpbAyZHFaxBln7QhyOA%3d&risl=1&pid=ImgRaw&r=0">
+    <p1 class="about2">The Lincoln Memorial</p1>
+  
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

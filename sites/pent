@@ -1,0 +1,79 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style10.css">
+    <title>The Capitol</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+       The Pentagon
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+      The Pentagon, located in Arlington County, Virginia, is the headquarters building of the United States Department of Defense. It was built between September 11, 1941 to 15 January, 1943. It was attacked on September 11, 2001 during the terrorist attacks. The Pentagon symbolizes the security and strength of the USA. 
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://th.bing.com/th/id/R.dafdde3209bc0c574a26f41408735d44?rik=sZ35VCcz9UWsQw&riu=http%3a%2f%2f3.bp.blogspot.com%2f_ap-hMHXgd9Y%2fTIwSAI_cLxI%2fAAAAAAAAAY8%2fLR94mkXK9qI%2fs1600%2fPentagon.jpg&ehk=RBI7IyHIO0KO0v5%2bjz%2b26VOngKjLoexzLU9NcY0j4O4%3d&risl=&pid=ImgRaw&r=0">
+    <p1 class="about2">The Pentagon</p1>
+   
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

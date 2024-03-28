@@ -1,0 +1,79 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style6.css">
+    <title>The Smithsonian Institution</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+        The Smithsonian <br>Institution
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+     Named after James Smithsonian, a chemist and mineralogist. The Smithsonian Institution is a group of museums and education/research centers. The Smithsonian Institution is federally funded. It’s mission is to increase the diffusion of knowledge.  It houses 21 museums and galleries. It was built netweem 1846 to 1855. 
+
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://th.bing.com/th/id/OIP.FSXZdfLC5dJRhi8XOg86BwHaE8?rs=1&pid=ImgDetMain">
+  
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

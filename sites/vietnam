@@ -1,0 +1,79 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style2.css">
+    <title>Vietnam Veterans Memorial</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+       Vietnam Veterans <br> Memorial 
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+     The Vietnam Veterans Memorial is a tribute to the men and women who served and sacrificed their lives during the Vietnam War. Designed by American architect Maya Lin, it is a  black granite V-shaped wall inscribed with the names of 58,000 servicemen and women who were either killed or went missing in the war. It was built on Nov 13, 1982. 
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://www.andalusiastarnews.com/wp-content/uploads/sites/13/2022/02/Vietnam-Memorial-Wall-DC-main-web.jpg">
+
+   
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

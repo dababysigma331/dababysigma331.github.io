@@ -1,0 +1,80 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style5.css">
+    <title>The Capitol</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+        The National Mall
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+    The National Mall is located in the downtown area of Washington D.C. , containing museums, art galleries, and memorials, like the Washington Monument and the Lincoln Memorial. George Washington designated the location. The U.S. Capitol is also located here. It is also considered a national park. The national mall symbolizes the American character and a symbol of governmental power. 
+
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://th.bing.com/th/id/R.ad69474790f8046d92edf8ab5b366ea6?rik=EH1l7FYckS%2bEmQ&pid=ImgRaw&r=0">
+    <p1 class="about2">A Map of the National Mall</p1>
+     
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

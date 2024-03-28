@@ -1,0 +1,79 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style2.css">
+    <title>The Capitol</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+       Arlington National <br> Cemetery
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+     The Arlington National Cemetery is a national burial ground in Arlington County, Virginia, on the Potomac river. The land was once the estate of Robert E. Lee. The Tomb of the Unknown Soldier resides here.  It represents the American people, alive or dead. It was established on June 15, 1864.  
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://img.washingtonpost.com/rf/image_1024w/2010-2019/WashingtonPost/2017/08/18/Local-Politics/Images/ConfederateArlingtonKessler03.JPG?uuid=DjJyJoNgEeeeeiD6jXoNtg">
+
+   
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

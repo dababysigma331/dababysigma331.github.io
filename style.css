@@ -1,0 +1,268 @@
+body {
+  margin: 0;
+  background-color: #4c4e52;
+}
+
+.header {
+  overflow: hidden;
+  height: 45px;
+  background-color: #35383d;
+  margin: 0px;
+}
+
+.ht {
+  width: 100%;
+  height: 100%;
+  border: 0px;
+  border-collapse: collapse;
+}
+
+
+.ht td {
+  height: 100%;
+  font-size: 15px;
+  width: 8%;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+  color: #d4d6d9;
+  font-family: Helvetica;
+  transition: all 0.4s ease;
+}
+
+.ht td:hover {
+  color: #f1f2f3;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.map {
+  width: auto;
+  height: 32vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4vh;
+  max-width: 1000px;
+  border-radius: 10px;
+  transition: height 0.3s ease, opacity 0.3s ease;
+  user-select: none;
+}
+
+.map:hover {
+  width: auto;
+  height: 33vw;
+  opacity: 0.8;
+}
+
+.headonmap {
+  text-align: center;
+  font-family: Helvetica;
+  color: #d4d6d9;
+  margin-top: 30px;
+}
+
+.sitesdiv {
+  overflow: auto;
+  width: 90%;
+  margin: 30px 40px 0px 4vw;
+}
+
+.sites {
+  height: 340px;
+  width: 90%;
+  border-spacing: 7px;
+  font-family: verdana;
+
+}
+
+.sites td {
+  background: blue;
+  min-width: 270px;
+  width: 270px;
+  text-align: center;
+  height: 100%;
+  font-size: 40px;
+  border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+
+}
+
+.sites td:hover {
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+  box-shadow: 0px 0px 8px;
+}
+
+.sites td:active {
+  opacity: 0.6;
+  box-shadow: 0px 0px 8px #bfbfbf;
+}
+
+#uscap {
+  background-image: url("https://www.tripsavvy.com/thmb/mSggz4CnQGBou9R_Zn1aQWwRwcI=/6400x2754/filters:fill(auto,1)/capitol-panoramic-56a236e95f9b58b7d0c7f838.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 780px;
+}
+
+#wh {
+  background-image: url("https://fthmb.tqn.com/RlqW6RJw0tcjlwP7dGM28qunZJ8=/3827x2604/filters:fill(auto,1)/white-house-2-56a238715f9b58b7d0c8049f.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+#supc {
+  background-image: url("https://michaelbeststrategies.com/wp-content/uploads/2020/09/US_Supreme_Court-1024x683.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+#natm {
+  background-image: url("https://th.bing.com/th/id/OIP.lcNnF-gDYyP9a3LNQdCVmQAAAA?rs=1&pid=ImgDetMain");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+#smith {
+  background-image: url("https://i.pinimg.com/originals/8f/ca/b6/8fcab60542b6eaff88ae94aaca41c9c3.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 1000px;
+}
+
+
+#wash {
+  background-image: url("https://th.bing.com/th/id/R.1e5c1fa3d93a63fb0d6bba9b018095b2?rik=TdT9K1WxxfkvJw&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fe%2feb%2fWashington_Monument_2012.jpg&ehk=GH0XawNOx18dpiySazFfH72%2f0Y9Ly%2bNMYI4VDimH2f0%3d&risl=1&pid=ImgRaw&r=0");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 300px;
+}
+
+
+#lincoln {
+  background-image: url("https://live.staticflickr.com/3518/4556834606_327cba1e0e_n.jpg");
+  background-position: center bottom;
+  background-position-x: 46%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 350px;
+}
+
+#ford {
+  background-image: url("https://th.bing.com/th/id/R.6098e00b007c33cb61c967f8ba06f8c3?rik=b37WkVbqZ2HP2g&pid=ImgRaw&r=0");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+
+#jeff {
+  background-image: url("https://i.pinimg.com/originals/d8/1c/3e/d81c3e1d48dda54a98d64cbc99b5bf76.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+
+#mlk {
+  background-image: url("https://www.travelawaits.com/wp-content/uploads/2021/04/the-martin-luther-king-jr-m9e4198.jpg?w=800");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 330px;
+}
+
+#viet {
+  background-image: url("https://www.tripsavvy.com/thmb/nnAssAYTgCplolSJlqcveA8RjzQ=/2126x1413/filters:fill(auto,1)/GettyImages-128088106-56d87c2d3df78c5ba022efb5.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+.extra {
+
+  font-family: Helvetica;
+  font-size: 40px;
+  color: #d4d6d9;
+  text-align: middle;
+
+}
+
+#fiveside {
+  background-image: url("https://www.travel1000places.com/wp-content/uploads/2020/05/wikimedia-The_Pentagon_square-1500-1200x1200.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 350px;
+}
+
+#tomb {
+  background-image: url("https://th.bing.com/th/id/R.c78bbec2808fe22dbaf9f84f449e42d2?rik=tDzrQ3haBTdmCg&riu=http%3a%2f%2flh3.googleusercontent.com%2f-x4MoRGFOUZg%2fVaEFlbm_C3I%2fAAAAAAABECU%2fCeqrDU_tm0s%2ftomb-of-unknown-soldier-usa-1%2525255B2%2525255D.jpg%3fimgmax%3d800&ehk=325uarQ2DPb8uG5w%2f%2bVvY%2fkuc3HHZlgWYqq%2f0s5JA%2fE%3d&risl=&pid=ImgRaw&r=0");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+#arl {
+  background-image: url("https://th.bing.com/th/id/R.0a31454d95a7eccc0e5bdc32e2ef450f?rik=ki3Oj7tq%2b4nmnA&pid=ImgRaw&r=0");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+#holo {
+  background-image: url("https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2012/08/21/Style/Images/kitpic4.jpg");
+  background-position: center bottom;
+  background-position-x: 50%;
+  background-position-y: 0px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  background: #313235;
+    border-radius: 7px;
+}
+
+ 
+::-webkit-scrollbar-thumb {
+  background: #1a1aff;
+  border-radius: 7px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3333ff; 
+  transition: height 0.3s ease;
+}

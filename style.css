@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #3d3e43;
+
 }
 
 .header {
@@ -73,11 +74,11 @@ body {
   width: 90%;
   border-spacing: 7px;
   font-family: verdana;
+  color: white;
 
 }
 
 .sites td {
-  background: blue;
   min-width: 270px;
   width: 270px;
   text-align: center;
@@ -88,7 +89,7 @@ body {
   box-sizing: border-box;
   user-select: none;
   cursor: pointer;
-
+    
 }
 
 .sites td:hover {
@@ -253,16 +254,16 @@ body {
 ::-webkit-scrollbar {
   width: 15px;
   background: #313235;
-    border-radius: 7px;
+  border-radius: 7px;
 }
 
- 
+
 ::-webkit-scrollbar-thumb {
   background: #1a1aff;
   border-radius: 7px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #3333ff; 
+  background: #3333ff;
   transition: height 0.3s ease;
 }

@@ -1,0 +1,80 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style4.css">
+    <title>The Capitol</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <table class="ht">
+        <tb>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+          <td onClick="home()">
+            Home
+          </td>
+          <td>
+            Navi
+          </td>
+          <td>
+            Code
+          </td>
+          <td>
+            About
+          </td>
+
+          <td>
+            Idk
+          </td>
+          <td>
+
+          </td>
+          <td>
+
+          </td>
+        </tb>
+
+      </table>
+
+
+    </div>
+    <div class="bg">
+
+    </div>
+    <div class="txtonimg">
+      <h>
+        U.S. Supreme <br>Court Building
+      </h>
+    </div>
+    <div class="leftright">
+    <div class="left">
+        <p class="about">
+   The US Supreme Court building serves as the official residence of the Chief Justice of the US and the eight Associate justices. It is the final court of appeals in the justice system. It was built from October 13, 1932 to April 4, 1935. Many famous cases were heard here, like Dred Scott v. Sandford and Marbury v. Madison. 
+
+
+      </p>
+    </div>
+    <div class="right">
+    <img class= "leftimg" src="https://th.bing.com/th/id/OIP.BL3gkXAZmNInJy1cerZRAgHaE8?rs=1&pid=ImgDetMain">
+    <p1 class="about2">Inside the Supreme Court</p1>
+    
+    </div>
+
+    </div>
+  </body>
+  <script>
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+
+
+  </script>
+
+</html>

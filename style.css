@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  overflow: hidden;
+
   height: 45px;
   background-color: #242529;
   margin: 0px;
@@ -35,6 +35,15 @@ body {
   color: #f1f2f3;
   font-size: 17px;
   font-weight: bold;
+}
+
+.ht td img {
+
+}
+
+.logo {
+  height: 43px;
+  width: 43px;
 }
 
 #map {

@@ -37,9 +37,9 @@ body {
   font-weight: bold;
 }
 
-.map {
+#map {
   width: auto;
-  height: 32vw;
+  height: 35vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -50,9 +50,9 @@ body {
   user-select: none;
 }
 
-.map:hover {
+#map:hover {
   width: auto;
-  height: 33vw;
+  height: 36vw;
   opacity: 0.8;
 }
 

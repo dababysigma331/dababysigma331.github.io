@@ -182,3 +182,19 @@ function holomap() {
   obj.src = 'https://dababysigma331.github.io/images/mapholo.jpg'
 
 }
+
+	function home() {
+    window.location.href = "https://dababysigma331.github.io/";
+  }
+
+function navi() {
+    window.location.href = "https://docs.google.com/document/d/1H-QdoD2P96X0h10bJl5dBLm1_Q-grMIl3Rk37fc8Szs/edit";
+  }
+  
+  function code() {
+    window.location.href = "https://dababysigma331.github.io/code";
+  }
+  
+  function about() {
+    window.location.href = "https://dababysigma331.github.io/about";
+  }
